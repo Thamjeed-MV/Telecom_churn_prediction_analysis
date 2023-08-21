@@ -1,0 +1,2 @@
+# Telecom_churn_prediction_analysis
+This project explores the exciting realm of predicting customer churn in the telecommunications industry. Through data analysis and machine learning, we aim to forecast which customers are likely to switch providers or cancel services. By leveraging historical data and advanced algorithms, we empower telecom companies to proactively retain customers and optimize their strategies. Dive into our code, datasets, and resources to uncover insights into customer behavior and build predictive models that drive business success.
